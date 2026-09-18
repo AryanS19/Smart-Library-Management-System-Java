@@ -1,0 +1,3 @@
+S101|Pranjul|ECE|B101
+S102|Rahul|CSE|B103
+S201|Aman|ECE|

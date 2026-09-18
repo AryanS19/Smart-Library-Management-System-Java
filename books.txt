@@ -1,0 +1,4 @@
+B101|Java Programming|Herbert Schildt|false
+B103|Computer Networks|Andrew Tanenbaum|false
+B201|Object Oriented Programming|James Gosling|true
+B202|Advanced Java|V Purohit|true
